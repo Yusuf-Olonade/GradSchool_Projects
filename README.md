@@ -49,14 +49,14 @@ for modifying their campaign to gain support from a wider international audience
 ### Dataset
 Tweets made on key events during the war was used for analysis. The events includes;
 
--February 24, 2022:President Putin announced a 'special military operation' on eastern Ukraine
--March 25, 2022:Russia announces the completion of their 1st stage of military operations and 
+1. February 24, 2022:President Putin announced a 'special military operation' on eastern Ukraine
+2. March 25, 2022:Russia announces the completion of their 1st stage of military operations and 
 their primary focus was now on the 'liberation of Dondas'
--April 6-7, 2022:President Biden administration prohibits US investment in Russia, calls for 
+3. April 6-7, 2022:President Biden administration prohibits US investment in Russia, calls for 
 the expulsion of Russia from G20 and UN Human Rights Council
--July 3-4, 2022:Russia claims to have taken Lysychansk, as it re-expands its goals to include 
+4. July 3-4, 2022:Russia claims to have taken Lysychansk, as it re-expands its goals to include 
 other cities in Ukraine, marking the start of phase 3
--August 24-25, 2022:Ukraine marks its day of independence from Soviet rule, which also marks 
+5. August 24-25, 2022:Ukraine marks its day of independence from Soviet rule, which also marks 
 the 6-month of Russia’s full-scale invasion
 
 ### Methodology
