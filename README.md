@@ -43,7 +43,7 @@ required for Data professionals
 Hierarchical clustering algorithm was implemented to design this curriculum. 
 Job posting information was web scraped from Indeed web portal. The logic was 
 to cluster skills that appear together in most job postings, the rationale was 
-that those courses are likely similar, and it makes sense to teach them together 
+that those skills are likely similar, and it makes sense to teach them together 
 in the same course. For example, communication, presentation and leadership skills 
 appeared together in most job postings
 
